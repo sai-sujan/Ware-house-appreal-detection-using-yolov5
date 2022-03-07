@@ -1,4 +1,4 @@
-# Helimate Detection using yolov5 
+# Ware house appreal Detection using yolov5 
 
 ## Table of Content
   * [Demo](#demo)
